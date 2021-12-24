@@ -1,4 +1,4 @@
-<mxfile modified="2021-12-24T18:01:12.105Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="35du-BLUF04yFwkTijCI" version="16.1.0" type="github">
+<mxfile modified="2021-12-24T18:02:34.078Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="oK-PWUc_2tjtpUE2baGD" version="16.1.0" type="github">
   <diagram id="WI9T0HZ2pTsCkuznbFz-" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -79,6 +79,9 @@
         </mxCell>
         <mxCell id="hJ-bLelYIH7DVtIRV5_r-33" value="*must be in same&lt;br&gt;Security Group" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Application_Security_Groups.svg;glass=0;" vertex="1" parent="1">
           <mxGeometry x="880" y="80" width="37" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hJ-bLelYIH7DVtIRV5_r-34" value="Code Hosted&lt;br&gt;on GitHub" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.github;glass=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="800" y="400" width="75" height="75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
