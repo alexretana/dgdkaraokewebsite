@@ -17,7 +17,9 @@ Silly Website to play DGD with subtitles
 - flask
 
 #### TODO:
-- [ ] Create Tests For Backend
+- [ ] Use jupyter notebook to create Subtitles for karaoke
+- [ ] Create Tests For Backend with the following behaviors:
+  - [ ] Stream From Azure Blob Storage to Client
 
 ### Database
 - Azure Storage for .mp4's
